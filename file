@@ -3,4 +3,5 @@
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 192.168.132.128	master.example.com	master
 192.168.132.130	node1.example.com	node1
+172.25.6.9	abc.com	
 
